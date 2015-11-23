@@ -1,4 +1,4 @@
-##MarketingBlog
+#MarketingBlog
 MarketingBlog Lite is a clean minimal and responsive WordPress theme well suited for marketing, travel, health, business, finance, portfolio, design, art, photography, personal and any other creative websites and Blogs. Developed using Bootstrap 3 that makes it mobile and tablets friendly. Theme comes with 2 different layout, social icon integration, author bio, popular posts widget and improved category widget, 100 google fonts, unlimited color variation, fully customizer compatible. marketingblog incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly thanks to its clean structure and codebase. It has dozens of Theme Options to change theme layout, colors, fonts, typography and much more. Theme is also translation and multilingual ready, compatible with WPML. marketingblog is a free WordPress theme with tons of premium functionality and design. This theme is optimized to work with bbPress, Contact Form 7, Jetpack and other popular free and premium plugins.
 #### Some Awesome Features
 * Bootstrap 3 integration
