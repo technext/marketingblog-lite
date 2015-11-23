@@ -264,7 +264,7 @@ function marketingblog_allow_skype_protocol( $protocols ){
 add_filter( 'kses_allowed_protocols' , 'marketingblog_allow_skype_protocol' );
 
 function marketingblog_footer_credit_text() {
-    printf( esc_html__( 'Theme by %1$s', 'marketingblog' ) , '<a href="https://thememarketingblog.com/" title="MarketingBlog Lite" target="_blank">Thememarketingblog</a>');
+    printf( esc_html__( 'Theme by %1$s', 'marketingblog' ) , '<a href="https://themewagon.com/MarketingBlog" title="MarketingBlog Lite" target="_blank">Thememarketingblog</a>');
 }
 
 function marketingblog_footer_copyright_text() {
